@@ -1,0 +1,132 @@
+{
+  "settings": {
+    "title": "Aaron Murphy - Personal Porfolio",
+    "logoLight": "/logo-light.png",
+    "logoDark": "/logo-dark.png",
+    "helloTitle": "Aaron Murphy",
+    "helloSubTitle": "I build things for the web.",
+    "helloText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "aboutText": "Hello! My name is Brittany and I enjoy creating things that live on the internet. My interest in web development started back in 2012 when I decided to try editing custom Tumblr themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!",
+    "aboutImage": "/profile.jpg",
+    "contactText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "email": "test@gmail.com"
+  },
+  "experiences": [
+    {
+      "company": "A Company",
+      "position": "Software Developer",
+      "date": "01.01.2023",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    },
+    {
+      "company": "B Company",
+      "position": "Software Developer",
+      "date": "02.01.2023",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "company": "C Company",
+      "position": "Software Developer",
+      "date": "03.01.2023",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+    },
+    {
+      "company": "D Company",
+      "position": "Software Developer",
+      "date": "04.01.2023",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ],
+  "works": [
+    {
+      "title": "Work 1",
+      "subTitle": "Work",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "/1.png",
+      "githubLink": "https://www.github.com",
+      "externalLink": "https://www.yasingokhanerdogan.com",
+      "technologies": "Nextjs, TailwindCSS, VSCode"
+    },
+    {
+      "title": "Work 2",
+      "subTitle": "Work",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "/1.png",
+      "githubLink": "https://www.github.com",
+      "externalLink": "https://www.yasingokhanerdogan.com",
+      "technologies": "Nextjs, TailwindCSS, VSCode"
+    },
+    {
+      "title": "Work 3",
+      "subTitle": "Work",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "/1.png",
+      "githubLink": "https://www.github.com",
+      "externalLink": "https://www.yasingokhanerdogan.com",
+      "technologies": "Nextjs, TailwindCSS, VSCode"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Project 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "githubLink": "https://www.github.com",
+      "externalLink": "https://www.yasingokhanerdogan.com",
+      "technologies": "Nextjs, TailwindCSS, VSCode"
+    },
+    {
+      "title": "Project 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "githubLink": "https://www.github.com",
+      "externalLink": "https://www.yasingokhanerdogan.com",
+      "technologies": "Nextjs, TailwindCSS, VSCode"
+    },
+    {
+      "title": "Project 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "githubLink": "https://www.github.com",
+      "externalLink": "https://www.yasingokhanerdogan.com",
+      "technologies": "Nextjs, TailwindCSS, VSCode"
+    },
+    {
+      "title": "Project 4",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "githubLink": "https://www.github.com",
+      "externalLink": "https://www.yasingokhanerdogan.com",
+      "technologies": "Nextjs, TailwindCSS, VSCode"
+    },
+    {
+      "title": "Project 5",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "githubLink": "https://www.github.com",
+      "externalLink": "https://www.yasingokhanerdogan.com",
+      "technologies": "Nextjs, TailwindCSS, VSCode"
+    }
+  ],
+  "social": [
+    {
+      "target": "https://www.facebook.com",
+      "icon": "BsFacebook"
+    },
+    {
+      "target": "https://www.twitter.com",
+      "icon": "BsTwitter"
+    },
+    {
+      "target": "https://www.instagram.com",
+      "icon": "BsInstagram"
+    },
+    {
+      "target": "https://www.linkedin.com",
+      "icon": "BsLinkedin"
+    },
+    {
+      "target": "https://www.pinterest.com",
+      "icon": "BsPinterest"
+    },
+    {
+      "target": "https://www.youtube.com",
+      "icon": "BsYoutube"
+    }
+  ]
+}
