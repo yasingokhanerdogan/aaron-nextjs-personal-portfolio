@@ -1,5 +1,6 @@
 import React from "react";
 import { Link as ScrollLink } from "react-scroll";
+
 import Data from "../../mockups/data.json";
 
 const Hello = () => {
@@ -10,7 +11,7 @@ const Hello = () => {
           Hi, My name is,
         </h3>
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-700 dark:text-slate-400 mt-5">
-          {Data.settings.helloTitle}
+          {Data.settings.name}
         </h1>
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-600 dark:text-slate-500 mt-5">
           {Data.settings.helloSubTitle}

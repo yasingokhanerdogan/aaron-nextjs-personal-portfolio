@@ -7,7 +7,7 @@ const NotFound = () => {
 
   return (
     <div className="w-full h-[calc(100vh-128px)] flex flex-col items-center justify-center">
-      <p className="font-bold text-3xl mb-2 text-slate-700 dark:text-slate-500">
+      <p className="font-bold text-3xl mb-2 text-slate-700 dark:text-slate-400">
         404 Not Found Error!
       </p>
       <button

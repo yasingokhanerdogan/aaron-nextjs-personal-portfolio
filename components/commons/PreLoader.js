@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
-import ThemeSwitch from "../header/ThemeSwitch";
+import ThemeSwitch from "./ThemeSwitch";
+
 import Data from "../../mockups/data.json";
 
 const PreLoader = () => {
@@ -29,7 +30,7 @@ const PreLoader = () => {
             }
             width={75}
             height={75}
-            alt={Data.settings.helloTitle}
+            alt={Data.settings.name}
           />
         )}
         <h5 className="font-Fira text-sm mt-5 text-slate-700 dark:text-slate-200">

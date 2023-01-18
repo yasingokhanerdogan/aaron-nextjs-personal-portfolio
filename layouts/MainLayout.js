@@ -7,6 +7,8 @@ import {
   Footer,
   Preloader,
 } from "../components";
+import ScrollToTop from "../components/commons/ScrollToTop";
+import Overlay from "../components/commons/Overlay";
 
 const MainLayout = ({ children }) => {
   return (
@@ -20,6 +22,9 @@ const MainLayout = ({ children }) => {
         <div className="px-5 md:px-20 w-full">{children}</div>
       </div>
       <Footer />
+
+      <ScrollToTop />
+      <Overlay />
     </>
   );
 };
