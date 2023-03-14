@@ -32,6 +32,6 @@
       <li>Pixabay</li>
     </ul>
     <br />
-     <img src="https://github.com/yasingokhanerdogan/aaron-nextjs-personal-portfolio-template/blob/main/full-dark.png" />
+     <img src="https://github.com/yasingokhanerdogan/aaron-nextjs-personal-portfolio/blob/main/full-dark.png" />
      <br/>
-    <img src="https://github.com/yasingokhanerdogan/aaron-nextjs-personal-portfolio-template/blob/main/full-light.png" />
+    <img src="https://github.com/yasingokhanerdogan/aaron-nextjs-personal-portfolio/blob/main/full-light.png" />
